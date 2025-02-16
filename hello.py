@@ -1,2 +1,2 @@
 a = "chinuSahu"
-print("Hello brother",a)
+print(a)
